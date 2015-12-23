@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Art of War]]></title>
+        <description><![CDATA[Art of War]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Dec 2015 00:03:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to the Art of War]]></title>
+            <description><![CDATA[<article><h1>Welcome to the Art of War</h1><p>A site dedicated to capturing evocative, pleasing and narrative rich images from  Historical Board Wargames and History itself.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da780bd0edceecc4abe6ab5a581f78cc6487a547.jpg"></article>]]></description>
+            <link>undefinedwelcome-to-the-art-of-war/index.html</link>
+            <guid isPermaLink="false">dbeeabea-607c-45c5-a13b-f9687213ac94</guid>
+            <pubDate>Wed, 23 Dec 2015 00:03:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
